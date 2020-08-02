@@ -1,5 +1,5 @@
 # DEAP-optimization-assignments
-My solution for two optimization problems given as a Degree task.
+My solution for two optimization problems given in a Degree task.
 
 ## Problem 1
 Make the combination of items that fits the following conditions:
