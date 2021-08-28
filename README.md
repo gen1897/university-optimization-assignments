@@ -1,4 +1,4 @@
-# DEAP-optimization-assignments
+# DEAP-optimization
 My solution for two optimization problems given in a Degree task.
 
 ## Problem 1
